@@ -1,5 +1,7 @@
 # Monopoly
 
+![monopoly](https://github.com/PhilipPaulJohnson/monopoly/assets/114535785/fd7c224a-e4cd-4f62-8cf3-0b28d0bd5d80)
+
 OVERVIEW: This Python app encapsulates the classic board game, Monopoly. All official cards, board-spaces, etc. have been imported 
 
 HOW IT WORKS: This is a text-based Four Player Monopoly game (You vs 3 computer generated players) that is run in your terminal or in the cloud @ pythonanywhere (RECOMMENDED) 
