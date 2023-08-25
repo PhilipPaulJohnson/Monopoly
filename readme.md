@@ -8,7 +8,7 @@ HOW IT WORKS: This is a text-based Four Player Monopoly game (You vs 3 computer 
 
 WHERE IT'S GOING: At this time the game is capped at 45 turns till I develop end-game and mortgage functions
 
-PERSONAL NOTE: This is my first portfolio project mostly written during my Python module at bootcamp. I wanted a challenge that would showcase my current knowledge of OOP, classes & instances
+PERSONAL NOTE: This is my first portfolio project mostly written during the few weeks of my Python module at bootcamp. I wanted a challenge that would showcase my current knowledge of OOP, classes & instances
 
 # TECHNOLOGIES
 
