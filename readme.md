@@ -1,6 +1,6 @@
 # Monopoly
 
-![monopoly-scrsht](https://github.com/PhilipPaulJohnson/Monopoly/assets/114535785/f52a0b25-823e-4c37-84d7-0ddcd579959e)
+<img width="997" alt="Screenshot 2024-02-18 at 4 29 56 PM" src="https://github.com/PhilipPaulJohnson/Monopoly/assets/114535785/cba3a0af-f123-4d9c-8d2f-1091c617d199">
 
 OVERVIEW: This Python app encapsulates the classic board game, Monopoly. All official cards, board-spaces, etc. have been imported 
 
