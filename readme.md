@@ -4,7 +4,7 @@
 
 OVERVIEW: This Python app encapsulates the classic board game, Monopoly. All official cards, board-spaces, etc. have been imported 
 
-HOW IT WORKS: This is a text-based Four Player Monopoly game (You vs 3 computer generated players) that is run in your terminal or in the cloud @ pythonanywhere (RECOMMENDED) 
+HOW IT WORKS: This is a text-based four player Monopoly game (You vs 3 computer generated players) that is run in your terminal or in the cloud @ pythonanywhere (RECOMMENDED) 
 
 WHERE IT'S GOING: At this time the game is capped at 45 turns till I develop end-game and mortgage functions
 
